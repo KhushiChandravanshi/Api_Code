@@ -1,0 +1,40 @@
+db.mealType.insert([
+    {
+        "mealtype_id":1,
+        "mealtype":"Breakfast",
+        "content":"Kick off your morning with unique breakfast choices.",
+        "meal_image":"https://i.ibb.co/FVhSTWK/breakfast.jpg"
+    },
+    {
+        "mealtype_id":2,
+        "mealtype":"Lunch",
+        "content":"Kick off your morning with unique Lunch choices.",
+        "meal_image":"https://i.ibb.co/8rPxkWP/lunch.jpg"
+    },
+    {
+        "mealtype_id":3,
+        "mealtype":"Dinner",
+        "content":"Kick off your morning with unique breakfast choices.",
+        "meal_image":"https://i.ibb.co/XjzPqYv/dinner.jpg"
+
+    },
+    {
+        "mealtype_id":4,
+        "mealtype":"Snacks",
+        "content":"Kick off your morning with unique breakfast choices.",
+        "meal_image":"https://i.ibb.co/wchCHfb/snacks.jpg"
+    },
+    {
+        "mealtype_id":5,
+        "mealtype":"Drinks",
+        "content":"Kick off your morning with unique breakfast choices.",
+        "meal_image":"https://i.ibb.co/YR0S6fV/drinks.jpg"
+    },
+    {
+        "mealtype_id":6,
+        "mealtype":"NightLife",
+        "content":"Kick off your Night with unique Dinner choices.",
+        "meal_image":"https://i.ibb.co/q1fC2jW/nightlife.jpg"
+    }
+]
+)

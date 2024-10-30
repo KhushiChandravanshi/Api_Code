@@ -1,0 +1,39 @@
+db.location.insert(
+[
+    {
+        "location_id":1,
+        "location_name":"Ram Nagar, Banglore",
+        "state_id":1,
+        "state":"Karnataka",
+        "country_name":"India"
+    },
+    {
+        "location_id":5,
+        "location_name":"Punjab Colony, Patna",
+        "state_id":2,
+        "state":"Bihar",
+        "country_name":"India"
+    },
+    {
+        "location_id":7,
+        "location_name":"Kumharbeda Nagar, Pune",
+        "state_id":3,
+        "state":"Maharastra",
+        "country_name":"India"
+    },
+    {
+        "location_id":10,
+        "location_name":"Shyam Complex, Bhopal",
+        "state_id":4,
+        "state":"Madhya Pradesh",
+        "country_name":"India"
+    },
+    {
+        "location_id":3,
+        "location_name":"Bhagat Nagar, Jaipur",
+        "state_id":5,
+        "state":"Rajsthan",
+        "country_name":"India"
+    }
+]
+)
